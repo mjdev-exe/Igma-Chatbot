@@ -1,3 +1,4 @@
+<img width="1543" height="817" alt="igmatest123" src="https://github.com/user-attachments/assets/66f3d26e-f44a-44b0-8971-40b4c3e4d280" />
 # IGMA Chatbot (UE Assistant)
 
 IGMA Chatbot is a React + Vite chatbot that answers University of the East questions using a Retrieval-Augmented Generation (RAG) pipeline backed by Supabase vector search and Gemini models.
